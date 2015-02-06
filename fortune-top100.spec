@@ -1,7 +1,7 @@
 %define base_name	top100
 %define name		fortune-%{base_name}
 %define version		1.0
-%define release		%mkrel 10
+%define release		11
 
 Name:		%{name}
 Version:	%{version}
