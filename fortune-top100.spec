@@ -10,7 +10,7 @@ Summary:	Top 100 things you don't want the sysadmin to say
 License:	Public Domain
 Group:		Toys
 Source:		%{base_name}.tar.bz2
-Url:		http://people.redhat.com/andrew/humor/100sys.html
+Url:		https://people.redhat.com/andrew/humor/100sys.html
 Requires:	fortune-mod
 BuildArch:	noarch
 Buildroot:	%{_tmppath}/%{name}-%{version}
